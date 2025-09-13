@@ -1,0 +1,4 @@
+{"ts":"2025-09-02T20:26:08.369836Z","op":"TRUNCATE","table":"users;"}
+{"ts":"2025-09-02T20:46:46.689007Z","op":"CREATE_TABLE","table":"users"}
+{"ts":"2025-09-02T20:47:11.728685100Z","op":"TRUNCATE","table":"users;"}
+{"ts":"2025-09-02T20:47:11.737681400Z","op":"DROP_TABLE","table":"users;"}

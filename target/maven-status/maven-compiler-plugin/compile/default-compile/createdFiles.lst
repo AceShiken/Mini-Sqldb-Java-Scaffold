@@ -1,0 +1,16 @@
+com\minisqldb\wal\WAL.class
+com\minisqldb\catalog\Catalog.class
+com\minisqldb\sql\SqlMiniParser$CreateTable.class
+com\minisqldb\catalog\Catalog$TableDef.class
+com\minisqldb\config\DatabaseConfig$FsyncMode.class
+com\minisqldb\Main.class
+com\minisqldb\storage\HeapTable.class
+com\minisqldb\Database.class
+com\minisqldb\sql\SqlMiniParser$InsertInto.class
+com\minisqldb\table\RowFormat.class
+com\minisqldb\storage\Pager.class
+com\minisqldb\sql\SqlMiniParser$Select.class
+com\minisqldb\storage\Page.class
+com\minisqldb\config\DatabaseConfig.class
+com\minisqldb\sql\SqlMiniParser.class
+com\minisqldb\config\DatabaseConfig$Isolation.class
